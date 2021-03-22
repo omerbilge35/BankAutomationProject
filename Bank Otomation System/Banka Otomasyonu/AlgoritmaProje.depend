@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558341923 source:c:\users\omer furkan\desktop\proje\algoritmaproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
